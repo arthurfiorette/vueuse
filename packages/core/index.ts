@@ -1,3 +1,5 @@
+///<reference types="@types/web-bluetooth" />
+
 export * from './computedAsync'
 export * from './computedInject'
 export * from './createReusableTemplate'
